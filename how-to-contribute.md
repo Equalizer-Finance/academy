@@ -25,3 +25,8 @@ To publish content on the GitHub, follow the guidelines
 3. Equalizer Team will review the PR and approve/reject it
 
 For presentation and demonstrations: Before you create a PR, you need to propose an agenda item on Discord.
+
+## Licensing
+
+All content published on this repository and all contribution are licensed under
+[CY BY 4.0](https://creativecommons.org/licenses/by/4.0/).
