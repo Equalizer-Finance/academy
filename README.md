@@ -24,7 +24,7 @@ To learn how to contribute, see the [How to contribute?](how-to-contribute.md) g
 
 ## Agenda
 
-### Understanding Flash Loans 1
+### Understanding Flash Loans 1 - 24 Jan 2022
 
 In this meeting, we discuss
 
@@ -38,7 +38,9 @@ Before the meeting, we welcome you to read the following materials
 - [What is a transaction](https://ethereum.org/en/developers/docs/transactions/)
 - [What is a Smart Contract](https://ethereum.org/en/developers/docs/smart-contracts/#top)
 
-### Understanding Flash Loans 2
+[Meeting presentation](./presentations/01_equalizer-academy.pdf)
+
+### Understanding Flash Loans 2 - 07 Feb 2022
 
 In this meeting, we discuss
 
