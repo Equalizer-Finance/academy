@@ -32,7 +32,7 @@ In this meeting, we discuss
 - what are smart contracts
 - what makes Flash Loans possible
 
-Before the meeting, we welcome you to read the following materials
+Reading material
 
 - [What is a block](https://ethereum.org/en/developers/docs/blocks/)
 - [What is a transaction](https://ethereum.org/en/developers/docs/transactions/)
@@ -40,14 +40,31 @@ Before the meeting, we welcome you to read the following materials
 
 [Meeting presentation](./presentations/01_equalizer-academy.pdf)
 
-### Understanding Flash Loans 2 - 07 Feb 2022
+### Understanding Flash Loans 2 - 07 Feb 2022 [recording](https://zoom.us/rec/share/afhBg5v2lY1SuAQMN2KG5AHhNcg-Egt87mfZBlQUqn8ZsUAxLoSA_XpipHBlNA.MAjlAzJd6pK3or4o)
 
 In this meeting, we discuss
 
+- Smart contracts
+- Software development and Solidity
 - What are Flash Loans
 - Why they are risk- and collateral-free
 - Example flash loans (block explorers)
 - Example flash loan Smart Contract
+
+Reading material
+
+- [Flash lending concept](https://whitepaper.equalizer.finance/introduction/flash-lending-concept)
+- [Flash lending use cases](https://whitepaper.equalizer.finance/introduction/flash-lending-use-cases)
+- [Understanding flash loans](https://www.delta.exchange/blog/understanding-flash-loans )
+- [How do I borrow a flash loan?](https://docs.equalizer.finance/getting-started/how-do-i-borrow-a-flash-loan)
+- [How do I borrow a flash loan? A deep dive](https://docs.equalizer.finance/getting-started/how-do-i-borrow-a-flash-loan-a-deep-dive)
+- [Flash loan gas cost comparison](https://docs.equalizer.finance/equalizer-deep-dive/flash-loan-gas-cost-comparison)
+- [Ethereum EVM](https://ethereum.org/en/developers/docs/evm/)
+
+- [Get started with blockchain development](https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development/)
+- [Learn Solidity with Crypto Zombies](https://cryptozombies.io/)
+
+[Meeting presentation](./presentations/02_equalizer-academy.pdf)
 
 ### Flash loan use-cases
 
