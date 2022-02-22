@@ -66,18 +66,16 @@ Reading material
 
 [Meeting presentation](./presentations/02_equalizer-academy.pdf)
 
-### Flash loan use-cases
+### Flash loan use-cases - 21 Feb 2022 [recording](https://zoom.us/rec/share/5d8oN4NOglMH_KUVRT70AeJ0gGWg6txnMO6TILpQDKG69dGh5WblwZNdTS2F2fwu.zsAS8m6tLwzt0y8P)
 
 In this meeting, we discuss
 
-- What flash-loans can be used for
+- Loans, DeFi loans, Flash loans and collaterals
+- Flash loan use cases
 - What is arbitrage
+- Arbitrage strategies
 - What is collateral swap
 - What is liquidation/self-liquidation
-
-Before the meeting, we welcome you to read the following materials
-
-TBD
 
 ### Flash loans in action 1
 
