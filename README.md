@@ -77,6 +77,8 @@ In this meeting, we discuss
 - What is collateral swap
 - What is liquidation/self-liquidation
 
+[Meeting presentation](./presentations/03_equalizer-academy.pdf)
+
 ### Flash loans in action 1
 
 In this meeting, we discuss
