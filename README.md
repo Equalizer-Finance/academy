@@ -79,19 +79,23 @@ In this meeting, we discuss
 
 [Meeting presentation](./presentations/03_equalizer-academy.pdf)
 
-### Flash loans in action 1
+### Flash loans in action 1 - 07 Mar 2022
 
 In this meeting, we discuss
 
-- what are interfaces in a programming language
-- EIP standard for Flash Loan interfaces (https://eips.ethereum.org/EIPS/eip-3156)
-- how a flash loan smart contract is structured
-- flash loan examples on Etherscan
+- Interfaces
+- Compiling solidity
+- ABI and interacting with a Smart Contract
+- Interacting with decentralised exchanges
+
+We will host a hands-on workshop after the theoretical part.
 
 Before the meeting, we welcome you to read the following materials
 
 - [Interfaces](https://medium.com/rungo/interfaces-in-go-ab1601159b3a)
 - [Flash Loan interfaces](https://eips.ethereum.org/EIPS/eip-3156)
+- [Analysing compiler output](https://docs.soliditylang.org/en/latest/analysing-compilation-output.html)
+- [What is an ABI](https://ethereum.stackexchange.com/questions/234/what-is-an-abi-and-why-is-it-needed-to-interact-with-contracts)
 
 ### Flash loans in action 2
 
