@@ -48,3 +48,14 @@ graph TD
 
     BCPV --> BCPV1(Ganache)
 ```
+
+## Testing and deployment
+
+In the diagram below, we summarise some of the Solidity testing and deployment suites
+
+```mermaid
+graph TD
+    A(Testing and deployment) --> TD1(Remix IDE)
+    A --> TD2(Truffle Suite)
+    A --> TD3(Hardhat)
+```
