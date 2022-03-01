@@ -16,14 +16,14 @@ graph TD
     B --> BCT(Public Testnetm)
     B --> BCPV(Private)
 
-    BCP --> (Ethereum)
-    BCP --> (BSC)
-    BCP --> (Polygon)
+    BCP --> BCP1(Ethereum)
+    BCP --> BCP2(BSC)
+    BCP --> BCP3(Polygon)
 
-    BCT --> (Rinkeby)
-    BCT --> (Ropsten)
-    BCT --> (BSC Testnet)
-    BCT --> (Polygon Testnet)
+    BCT --> BCT1(Rinkeby)
+    BCT --> BCT2(Ropsten)
+    BCT --> BCT3(BSC Testnet)
+    BCT --> BCT4(Polygon Testnet)
 
-    BCPV --> Ganache
+    BCPV --> BCPV1(Ganache)
 ```
