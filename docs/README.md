@@ -34,7 +34,7 @@ and Ganache are used for development and testing.
 ```mermaid
 graph TD
     B(Blockchain) --> BCP(Public Mainnet)
-    B --> BCT(Public Testnetm)
+    B --> BCT(Public Testnet)
     B --> BCPV(Private)
 
     BCP --> BCP1(Ethereum)
