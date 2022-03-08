@@ -79,7 +79,7 @@ In this meeting, we discuss
 
 [Meeting presentation](./presentations/03_equalizer-academy.pdf)
 
-### Flash loans in action 1 - 07 Mar 2022
+### Flash loans in action 1 - 07 Mar 2022 [recording](https://zoom.us/rec/share/vQEeyo-d58b9I1Aq7vsq1wMSSALnWw02Pp4DElAHvha8JHcey-XJuYx-t6anezX_.piwubJiRflNx4ayK)
 
 In this meeting, we discuss
 
@@ -96,6 +96,10 @@ Before the meeting, we welcome you to read the following materials
 - [Flash Loan interfaces](https://eips.ethereum.org/EIPS/eip-3156)
 - [Analysing compiler output](https://docs.soliditylang.org/en/latest/analysing-compilation-output.html)
 - [What is an ABI](https://ethereum.stackexchange.com/questions/234/what-is-an-abi-and-why-is-it-needed-to-interact-with-contracts)
+
+[Meeting presentation](./presentations/04_equalizer-academy.pdf)  
+[Replit workspace](https://replit.com/@BancuStefan/eqz-academy#index.js:23:1)  
+[Remix IDE](https://remix.ethereum.org/)
 
 ### Flash loans in action 2
 
